@@ -79,7 +79,6 @@ This project does not currently implement the OAuth2 flow — that's planned as 
 ## Roadmap
 
 - [ ] Implement OAuth2 client credentials flow for authenticated endpoints
-- [ ] Add support for `/flights/arrival` and `/flights/departure`
 - [ ] Implement maps
 - [ ] Improve error handling / retry logic for rate limits
 
