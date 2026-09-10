@@ -80,7 +80,7 @@ This project does not currently implement the OAuth2 flow — that's planned as 
 
 - [ ] Implement OAuth2 client credentials flow for authenticated endpoints
 - [ ] Add support for `/flights/arrival` and `/flights/departure`
-- [ ] Add bounding-box filtering for `/states/all`
+- [ ] Implement maps
 - [ ] Improve error handling / retry logic for rate limits
 
 ## License
